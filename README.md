@@ -46,7 +46,7 @@ The source code of Android app of Travens using Kotlin in order to complete Bang
         - Connect Android Studio with Firebase [Connect to Firebase](https://developer.android.com/studio/write/firebase)
         - Clone this repository and import into Android Studio    
             ```
-               https://github.com/travens-id/bangkit-mobile-development.git
+               https://github.com/Gerato25/bangkit-mobile-development.git
             ``` 
         - Enter your API in buildConfigField `build.graddle`
            ``` defaultConfig {
